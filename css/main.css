@@ -6,9 +6,23 @@
 
 
 
+footer {
+	background: #2c3e50;
+	padding: 2%;
+	color: white;
+}
 
+footer a:link {
+	color: #f1c40f;
+}
 
+footer a:hover {
+	color: #e67e22;
+}
 
+footer a:visited {
+	color: #d35400;
+}
 
 
 
